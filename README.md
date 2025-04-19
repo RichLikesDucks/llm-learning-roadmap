@@ -5,7 +5,7 @@ This is a hands-on, project-based roadmap to deeply understand how Large Languag
 ## ⚡️ Phase 1: Foundations
 
 ### 1. Build a Transformer from Scratch
-- Implement self-attention, positional encodings, masking, and FFN layers using PyTorch or NumPy.
+- Implement self-attention, positional encodings, masking, and FFN layers using NumPy.
 - Reference: ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762), [Karpathy’s minGPT](https://github.com/karpathy/minGPT)
 
 ### 2. Byte Pair Encoding (BPE) Tokenizer

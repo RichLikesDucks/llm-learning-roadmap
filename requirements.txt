@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+gradio
+faiss-cpu
+sentence-transformers
+streamlit
+scikit-learn
+numpy
+matplotlib
